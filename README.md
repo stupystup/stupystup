@@ -1,12 +1,12 @@
-## 
 <img width="1500" height="350" alt="image" src="https://github.com/user-attachments/assets/129317a4-1405-450e-b859-2162a7ba0e45" />
 
+#
 <h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! </h1>
 
 ##
 <p align="center"> i'm stupy, a digital arist and a massive jjba fan </p> 
 
-##
+#
 <h1 align="center">✨my kin list!! </h1>
 
 
