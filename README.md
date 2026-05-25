@@ -1,5 +1,5 @@
 <img width="1500" height="500" alt="twitter header" src="https://github.com/user-attachments/assets/d3da7b60-b38d-4516-989b-52dabeed351d" />
-<h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b8c0ce70-6c44-4bdc-9411-3c0e19dd7de4" />
+<h1 align="center"> <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/cff0f77f-a469-443f-9168-784fb75f7ad0" /> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b8c0ce70-6c44-4bdc-9411-3c0e19dd7de4" />
  </h1>
 <p align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) also all of the photos in my profile are taken by me! </p> 
 
@@ -16,7 +16,13 @@
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/822b698d-e241-4dfb-880b-d030ff28b009" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/59f4fc1d-8b6e-49bc-9e6d-bf6df43017b0" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1074ce2d-e9a4-49bf-a646-d1f1bd0d711b" />
+  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/f1b893e1-ca9b-4396-978f-59b0e7fedc3b" />
+  <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/bd0a684c-ef89-4416-b1f2-0979d61e9f7f" />
+  <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/da9f85e9-16a2-4b8e-a013-18bcd248a258" />
   
+
+
+
 </div>
 
 
