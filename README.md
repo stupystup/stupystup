@@ -4,7 +4,7 @@
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> FANDOMS I'M IN:
- <p alight="left"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </p> </h1>
+ <h2 alight="left"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h2> </h1>
 <h1 align="center">✨MY KIN LIST!! </h1>
 <div align="left">
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/82aaabaf-30c1-40c5-8b29-ca22511f7793" />
