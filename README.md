@@ -2,12 +2,13 @@
 <h1 align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ba894d6f-68a8-456b-9f4a-67c08f6966a6" /> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b8c0ce70-6c44-4bdc-9411-3c0e19dd7de4" />
 <h3 align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) all of the photos in my profile are taken by me! </h3> 
 <h3 align="center"> my artstation: </h3>
-<h3 align="center"> my twitter: </h3>
+<h3 align="center"> my twitter: https://x.com/stupystup </h3>
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
 <h3 alight="center"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h3> </h1>
+<h1 align="center"> MY FAV PAIRINGS: </h1>
 <h1 align="center">✨MY KIN LIST!! </h1>
 <div align="left">
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/82aaabaf-30c1-40c5-8b29-ca22511f7793" />
