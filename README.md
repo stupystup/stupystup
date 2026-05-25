@@ -14,12 +14,6 @@
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/822b698d-e241-4dfb-880b-d030ff28b009" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1074ce2d-e9a4-49bf-a646-d1f1bd0d711b" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/59f4fc1d-8b6e-49bc-9e6d-bf6df43017b0" />
-  
-  
-  
-
-
-
 </div>
 
 
