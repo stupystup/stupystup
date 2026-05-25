@@ -6,7 +6,7 @@
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> the fandoms im currently in: </h1>
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/d3b4eea7-74fd-40f9-bd6f-281be651063e" />
-<h1 align="center">✨my kin list!! </h1>
+<h1 align="center">✨my kin list!! 
 <div align="left">
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/82aaabaf-30c1-40c5-8b29-ca22511f7793" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/3e767727-4ea1-4467-87cf-b614a1d2ff0c" />
