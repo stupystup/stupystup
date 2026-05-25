@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="twitter header" src="https://github.com/user-attachments/assets/d3da7b60-b38d-4516-989b-52dabeed351d" />
 <h1 align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ba894d6f-68a8-456b-9f4a-67c08f6966a6" /> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b8c0ce70-6c44-4bdc-9411-3c0e19dd7de4" />
-<h3 align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) all of the photos in my profile are taken by me! </h3> 
+<h3 align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) also, all of the photos in my profile are taken by me! </h3> 
 <h3 align="center"> my artstation: </h3>
 <h3 align="center"> my twitter: https://x.com/stupystup </h3>
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
