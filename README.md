@@ -1,5 +1,5 @@
 <img width="1500" height="500" alt="twitter header" src="https://github.com/user-attachments/assets/d3da7b60-b38d-4516-989b-52dabeed351d" />
-<h1 align="center"> <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/cff0f77f-a469-443f-9168-784fb75f7ad0" /> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b8c0ce70-6c44-4bdc-9411-3c0e19dd7de4" />
+<h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b8c0ce70-6c44-4bdc-9411-3c0e19dd7de4" />
  </h1>
 <p align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) also all of the photos in my profile are taken by me! </p> 
 
