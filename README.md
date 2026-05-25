@@ -3,7 +3,7 @@
 <h2 align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) also all of the photos in my profile are taken by me! </h2> </h1>
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
-<h1 align="center"> FANDOMS I'M IN:
+<h1 align="center"> ✨FANDOMS I'M IN:
  <h2 alight="left"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h2> </h1>
 <h1 align="center">✨MY KIN LIST!! </h1>
 <div align="left">
