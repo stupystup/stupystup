@@ -3,6 +3,7 @@
 # <h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! </h1>
 ## <p align="center"> i'm stupy, a digital arist and a massive jjba fan </p> 
 
+<img width="2560" height="785" alt="image" src="https://github.com/user-attachments/assets/48d7005b-4753-4cca-a44b-25db40d8f3d2" />
 <h1 align="center">✨my kin list!! </h1>
 
 
