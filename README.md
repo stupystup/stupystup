@@ -6,6 +6,8 @@
 <h3 align="center"> my twitter: https://x.com/stupystup </h3>
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
+<h1 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, minors (не люблю с детьми болтать), silentlily/eldersalt lovers, burningcacao (потому что фу) </h1>
+
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
 <h3 alight="center"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h3> </h1>
