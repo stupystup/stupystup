@@ -1,5 +1,6 @@
 <img width="1500" height="500" alt="twitter header" src="https://github.com/user-attachments/assets/d3da7b60-b38d-4516-989b-52dabeed351d" />
-<h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! </h1>
+<h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/d218f64b-5a35-4815-92c1-9431f6f7e8fb" />
+</h1>
 <p align="center"> i'm stupy, a digital arist and a massive jjba fan </p> 
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
