@@ -1,4 +1,7 @@
-## Hi there 👋
+## 
+<img width="1500" height="350" alt="image" src="https://github.com/user-attachments/assets/129317a4-1405-450e-b859-2162a7ba0e45" />
+
+<h1 align="left"> (˵◝ ⩊  ◜˵マ welcome to stupy's page! </h1>
 
 <!--
 **stupystup/stupystup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
