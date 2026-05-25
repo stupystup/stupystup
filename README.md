@@ -3,7 +3,7 @@
 # <h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! </h1>
 ## <p align="center"> i'm stupy, a digital arist and a massive jjba fan </p> 
 
-# <h1 align="center">✨my kin list!! </h1>
+<h1 align="center">✨my kin list!! </h1>
 
 
 <!--
