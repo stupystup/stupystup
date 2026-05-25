@@ -1,4 +1,4 @@
-<img width="1500" height="350" alt="image" src="https://github.com/user-attachments/assets/129317a4-1405-450e-b859-2162a7ba0e45" />
+<img width="914" height="914" alt="image" src="https://github.com/user-attachments/assets/5686b3de-52ba-4fc5-9d51-0ac0be173464" /><img width="1500" height="350" alt="image" src="https://github.com/user-attachments/assets/129317a4-1405-450e-b859-2162a7ba0e45" />
 <h1 align="center"> (˵◝ ⩊  ◜˵マ welcome to my page! </h1>
 <p align="center"> i'm stupy, a digital arist and a massive jjba fan </p> 
 
@@ -6,8 +6,20 @@
 <h1 align="center">✨my kin list!! </h1>
 <div align="left">
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/82aaabaf-30c1-40c5-8b29-ca22511f7793" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/3e767727-4ea1-4467-87cf-b614a1d2ff0c" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/f9017238-942a-4aa0-a027-0524c4998df0" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/c517f5b4-85af-4a4b-a43a-658b2a586ef1" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/796cf389-4057-461d-833d-ea627f31ffe7" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b5e0d786-96ad-49f2-8223-7d6509d86d09" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/822b698d-e241-4dfb-880b-d030ff28b009" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1074ce2d-e9a4-49bf-a646-d1f1bd0d711b" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/59f4fc1d-8b6e-49bc-9e6d-bf6df43017b0" />
+  
+  
+  
+
+
+
 </div>
 
 
