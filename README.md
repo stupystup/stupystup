@@ -14,7 +14,7 @@
 <h3 align="left"> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon </h3>
 <h3 align="left"> JoJo: Dio/Pucci </h3>
 <h3 align="left"> Genshin: Capitano/Pantalone, Albedo/Zhongli, Furina/Arlecchino </h3>
-<p><img align="center" src="https://github.com/stupystup/stupystup/blob/main/cookie-run-kingdom-silent-salt.gif" width="70" height="70" /></p>
+<p><img align="center" src="https://github.com/stupystup/stupystup/blob/main/cookie-run-kingdom-silent-salt.gif" width="150" height="150" /></p>
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/5f15e059-c3c9-4596-a813-d8520be5847c" />
 <h1 align="center">✨MY KIN LIST!! </h1>
 <div align="left">
@@ -53,7 +53,7 @@
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
 <h1 align="center"> that's it folks! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ </h1>
-<center><img align="center"<img alt="gif" src="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" width="70" height="70" /></center>
+<center><img align="center"<img alt="gif" src="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" width="150" height="150" /></center>
 
 <!--
 **stupystup/stupystup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
