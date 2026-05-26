@@ -9,7 +9,7 @@
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
-<h3 alight="center"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h3> </h1>
+<h3 alight="center"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, Roblox, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h3> </h1>
 <h1 align="center"> ✨MY FAV PAIRINGS: </h1>
 <h3 align="left"> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon </h3>
 <h3 align="left"> JoJo: Dio/Pucci </h3>
