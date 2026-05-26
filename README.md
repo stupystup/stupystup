@@ -52,7 +52,7 @@
 
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
-<h1 align="center"> that's it folks! </h1>
+<h1 align="center"> that's it folks! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ </h1>
 <p><img align="center" scr="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" width="70" height="70" /></p>
 
 <!--
