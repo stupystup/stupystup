@@ -6,12 +6,15 @@
 <h3 align="center"> my twitter: https://x.com/stupystup </h3>
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
-<h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, minors (не люблю с детьми болтать), silentlily/eldersalt lovers, burningcacao (потому что фу) </h2>
+<h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, minors (не люблю с детьми болтать), silentlily/eldersalt lovers, burningcacao/mysticcacao (потому что фу) </h2>
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
 <h3 alight="center"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h3> </h1>
 <h1 align="center"> ✨MY FAV PAIRINGS: </h1>
+<h3 align="left"> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon; </h3>
+<h3 align="left"> JoJo: Dio/Pucci; </h3>
+<h3 align="left"> Genshin: Capitano/Pantalone, Albedo/Zhongli, Furina/Arlecchino </h3>
 <h1 align="center">✨MY KIN LIST!! </h1>
 <div align="left">
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/82aaabaf-30c1-40c5-8b29-ca22511f7793" />
@@ -44,30 +47,6 @@
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5257a242-d427-4e96-b544-f0ad780fc9d8" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/fe0c298a-19b1-4fc7-8177-c86ef35e5a53" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/6f78095f-1cfb-446c-9a48-012eb1dcd507" />
- 
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
 
 </div>
 
