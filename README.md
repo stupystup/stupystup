@@ -58,9 +58,6 @@
 <p align="center">
   <img src="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" alt="animated" width="250" height="250" />
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ba894d6f-68a8-456b-9f4a-67c08f6966a6" width="250" height="250" />
-</p>
 <!--
 **stupystup/stupystup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
