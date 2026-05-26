@@ -12,8 +12,8 @@
 <h1 align="center"> ✨FANDOMS I'M IN:
 <h3 alight="center"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, SEWH, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h3> </h1>
 <h1 align="center"> ✨MY FAV PAIRINGS: </h1>
-<h3 align="left"> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon; </h3>
-<h3 align="left"> JoJo: Dio/Pucci; </h3>
+<h3 align="left"> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon </h3>
+<h3 align="left"> JoJo: Dio/Pucci </h3>
 <h3 align="left"> Genshin: Capitano/Pantalone, Albedo/Zhongli, Furina/Arlecchino </h3>
 <h1 align="center">✨MY KIN LIST!! </h1>
 <div align="left">
