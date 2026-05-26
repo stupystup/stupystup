@@ -54,7 +54,7 @@
 
 <h1 align="center"> that's it folks! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ </h1>
 <p align="center">
-  <img src="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" alt="animated" width="70" height="70" />
+  <img src="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" alt="animated" width="250" height="250" />
 </p>
 
 <!--
