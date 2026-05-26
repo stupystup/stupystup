@@ -4,7 +4,6 @@
 <h3 align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) also, all of the photos in my profile are taken by me! </h3> 
 <h3 align="center"> my artstation: </h3>
 <h3 align="center"> my twitter: https://x.com/stupystup </h3>
-<h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
 <h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, любители silentlily/eldersalt (умрите), burningcacao/mysticcacao (потому что фу, тоже умрите) </h2>
 
@@ -47,10 +46,9 @@
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5257a242-d427-4e96-b544-f0ad780fc9d8" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/fe0c298a-19b1-4fc7-8177-c86ef35e5a53" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/6f78095f-1cfb-446c-9a48-012eb1dcd507" />
-
 </div>
 
-
+<h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
 <!--
 **stupystup/stupystup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
