@@ -6,7 +6,7 @@
 <h3 align="center"> my twitter: https://x.com/stupystup </h3>
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
-<h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, silentlily/eldersalt lovers (умрите), burningcacao/mysticcacao (потому что фу) </h2>
+<h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, любители silentlily/eldersalt (умрите), burningcacao/mysticcacao (потому что фу) </h2>
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
