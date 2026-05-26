@@ -53,7 +53,7 @@
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
 
 <h1 align="center"> that's it folks! ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ </h1>
-<center><img align="center"<img alt="gif" src="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" width="150" height="150" /></center>
+<center><img align="center"<img alt="gif" src="https://github.com/stupystup/stupystup/blob/main/shadow-milk-cookie.gif" width="250" height="250" /></center>
 
 <!--
 **stupystup/stupystup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
