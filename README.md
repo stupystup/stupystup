@@ -5,7 +5,7 @@
 <h3 align="center"> my artstation: </h3>
 <h3 align="center"> my twitter: https://x.com/stupystup </h3>
 
-<h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, любители silentlily/eldersalt (умрите), burningcacao/mysticcacao (потому что фу, тоже умрите) </h2>
+<h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, любители silentlily/eldersalt (умрите), burningcacao/mysticcacao (потому что фу, тоже умрите)? jonadio, donapucci, dattalone </h2>
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
