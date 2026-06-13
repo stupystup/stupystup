@@ -9,7 +9,7 @@
 
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
-<h3 alight="center"> JJBA, Cookie Run, Genshin Impact, Hotlime Miami, Forsaken, Roblox, Squid Game, Strangers From Hell, MLP, Slashers, DBD and many more!! </h3> </h1>
+<h3 alight="center"> JJBA, Cookie Run, Hotlime Miami, Forsaken, Roblox, Squid Game, Strangers From Hell, MLP, Slashers, The Boys, DBD and many more!! </h3> </h1>
 <h1 align="center"> ✨MY FAV PAIRINGS: </h1>
 <h3 align="left"> Cookie run: Shadowmilk/Burning Spice, Silent Salt/Dark Cacao, Eternal Sugar/Mystic Flour, Obscure Umbra/Longan Dragon, Doughael/Avatar of Destiny, White Lily/Pure Vanilla, Pitaya Dragon/Ananas Dragon </h3>
 <h3 align="left"> JoJo: Dio/Pucci </h3>
@@ -26,10 +26,11 @@
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/c517f5b4-85af-4a4b-a43a-658b2a586ef1" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/796cf389-4057-461d-833d-ea627f31ffe7" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b5bb88d1-8f8f-4f11-ae6c-3d4e5839b73e" />
-  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b5e0d786-96ad-49f2-8223-7d6509d86d09" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/d9997d3e-391b-4faf-80bc-25bd6f0def5c" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/822b698d-e241-4dfb-880b-d030ff28b009" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/59f4fc1d-8b6e-49bc-9e6d-bf6df43017b0" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/1074ce2d-e9a4-49bf-a646-d1f1bd0d711b" />
+  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/b5e0d786-96ad-49f2-8223-7d6509d86d09" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/f1b893e1-ca9b-4396-978f-59b0e7fedc3b" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/bd0a684c-ef89-4416-b1f2-0979d61e9f7f" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/da9f85e9-16a2-4b8e-a013-18bcd248a258" />
@@ -49,7 +50,6 @@
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/f0d3fad8-e704-4321-90f0-bf2163f483c9" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/5257a242-d427-4e96-b544-f0ad780fc9d8" />
   <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/fe0c298a-19b1-4fc7-8177-c86ef35e5a53" />
-  <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/6f78095f-1cfb-446c-9a48-012eb1dcd507" />
 </div>
 
 <h3 align="center"> also check out my gf's page: https://github.com/Blaxotin </h3> </h1>
