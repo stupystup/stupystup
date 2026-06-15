@@ -7,6 +7,10 @@
 
 <h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, любители silentlily/eldersalt (умрите), burningcacao/mysticcacao (потому что фу, тоже умрите), jonadio, donapucci, dattalone </h2>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stupystup&color=blueviolet" alt="Profile Views"/>
+</p>
+
 <img width="2560" height="611" alt="image" src="https://github.com/user-attachments/assets/9879c3ad-1311-4af5-abaf-33414f18fc18" />
 <h1 align="center"> ✨FANDOMS I'M IN:
 <h3 alight="center"> JJBA, Cookie Run, Hotlime Miami, Forsaken, Roblox, Squid Game, Strangers From Hell, MLP, Slashers, The Boys, DBD and many more!! </h3> </h1>
