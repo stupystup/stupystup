@@ -3,7 +3,7 @@
 <h1 align="center"> <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/ba894d6f-68a8-456b-9f4a-67c08f6966a6" /> (˵◝ ⩊  ◜˵マ welcome to my page! <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/b8c0ce70-6c44-4bdc-9411-3c0e19dd7de4" />
 <h3 align="center"> i'm stupy (стюпи), a digital arist and a massive jjba fan with passion for videogames. you can check out my twitter or artstation if you'd like :) also, all of the photos in my profile are taken by me! </h3> 
 <h3 align="center"> my artstation: </h3>
-<h3 align="center"> my twitter: https://x.com/stupystup </h3>
+<h3 align="center"> my twitter: https://x.com/stupystup (it's dead tho) </h3>
 
 <h2 align="center"> ❌DNI❌: p*do, l*licon or inc*st lovers, любители silentlily/eldersalt (умрите), burningcacao/mysticcacao (потому что фу, тоже умрите), jonadio, donapucci, dattalone </h2>
 
